@@ -1,0 +1,9 @@
+Building Justpaycoin
+
+See doc/readme-qt.rst for instructions on building Justpaycoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Justpaycoin.
+
+See doc/build-*.txt for instructions on building justpaycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Justpaycoin.
